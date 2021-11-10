@@ -1,0 +1,44 @@
+<!-- Paguina Inventario-->
+
+
+<%- include("template/cabecera.ejs" , {tituloWeb: 'Inventario'}) %>
+<%- include("template/navbar.ejs") %>
+
+
+<div class="container">
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Descripcion</th>
+            </tr>
+        </thead>
+        <tbody>
+            <% if (arrayHerramientas.length > 0) { %>
+                <% arrayHerramientas.forEach(herramienta => { %>
+                    <tr>
+                        <th scope="col"><%= herramienta.id %> </th>
+                        <th scope="col"><%= herramienta.nombre %></th>
+                        <th scope="col"><%= herramienta.descripcion %></th>
+                    </tr>
+                <% }) %>
+               <% } %>
+            </tbody>
+    </table>
+
+
+   
+    
+
+
+    
+</div>
+
+
+
+<%- include("template/footer.ejs") %>
+    
+    
+  

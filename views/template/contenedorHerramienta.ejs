@@ -3,13 +3,27 @@
 <div class="card m-3" style="width: 20rem;">
     <img class="card-img-top" src="./img/Taladro.jpeg" style="width: 15rem; margin:auto;" alt="Card image cap">
     <div class="card-body">
-      <h2 class="card-title">01 Taladro</h5>
-        <p class="card-text">Taladro inalambrico black decker </p>
-        <span class="badge bg-success">Disponible</span></h1>
-        <!--        <span class="badge bg-danger">En uso</span></h1>          -->
+      <h2 class="card-title"><%=id%> <%=nombre  %> </h5>
+        <p class="card-text"><%= descripcion %>  </p>
+
+
+
+        <% if (status=='Disponible') { %>
+          <span class="badge bg-success"><%=status %> </span></h1>
+          <% } %>
+
+          <% if (status=='En uso') { %>
+            <span class="badge bg-danger"><%=status %></span></h1>
+            <% } %>
+            
+         
+        
+
+
+
       </br>
         <p class="card-text">En posesión de: </p>
-        <p class="nombre">carlos cabrera</p>
+        <p class="nombre"><%= enPosecion %> </p>
         
     </div>
   </div>

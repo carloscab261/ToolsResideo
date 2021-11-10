@@ -1,0 +1,28 @@
+[2021-11-10 10:28:59.044] [exthost] [info] Extension host with pid 17959 started
+[2021-11-10 10:28:59.499] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-10 10:28:59.640] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-10 10:28:59.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-10 10:28:59.966] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github, startup: true, activationEvent: '*'
+[2021-11-10 10:29:01.125] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-10 10:29:01.157] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-10 10:29:01.211] [exthost] [info] Eager extensions activated
+[2021-11-10 10:29:01.269] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-10 10:30:06.295] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-10 10:30:07.302] [exthost] [info] Extension host with pid 17959 exiting with code 0
+[2021-11-10 10:30:10.796] [exthost] [info] Extension host with pid 18044 started
+[2021-11-10 10:30:10.796] [exthost] [info] Skipping acquiring lock for /home/carlos/Desktop/proyectos/ToolsResideo/~/.vscode-root/User/workspaceStorage/1ad8aaa9e3cd8cf62b64573bb3e51912.
+[2021-11-10 10:30:11.128] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-10 10:30:11.152] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-10 10:30:11.167] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-10 10:30:12.058] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-10 10:30:12.208] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github, startup: false, activationEvent: '*'
+[2021-11-10 10:30:12.587] [exthost] [info] Eager extensions activated
+[2021-11-10 10:30:12.629] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-10 10:30:12.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-10 10:30:20.292] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-10 10:30:20.402] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-10 10:30:20.539] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-10 10:30:20.751] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-10 10:30:22.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2021-11-10 10:30:51.323] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-10 10:30:51.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'

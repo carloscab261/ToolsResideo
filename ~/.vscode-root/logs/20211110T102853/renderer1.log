@@ -1,0 +1,11 @@
+[2021-11-10 10:28:56.585] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.createExtensionHost() took 33 ms.
+[2021-11-10 10:28:56.645] [renderer1] [info] Starting extension host with pid 17959.
+[2021-11-10 10:28:56.649] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 42 ms.
+[2021-11-10 10:28:58.831] [renderer1] [error] [Extension Host] (node:17959) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-10 10:30:08.160] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.createExtensionHost() took 21 ms.
+[2021-11-10 10:30:08.205] [renderer1] [info] Starting extension host with pid 18044.
+[2021-11-10 10:30:08.208] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 28 ms.
+[2021-11-10 10:30:10.333] [renderer1] [error] [Extension Host] (node:18044) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-10 10:30:35.572] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

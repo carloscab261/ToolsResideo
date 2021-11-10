@@ -1,0 +1,1265 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/carlos/Desktop/proyectos
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :ToolsResideo/package-lock.json
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/package-lock.json
+> git show --textconv :ToolsResideo/package-lock.json
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/package-lock.json
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/RutasWeb.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/RutasWeb.js
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/RutasWeb.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/RutasWeb.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/herramientas.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/herramientas.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/herramientas.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/herramientas.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/herramientas.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/herramientas.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/RutasWeb.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/RutasWeb.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/router/Herramientas.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Herramientas.js
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git show --textconv :ToolsResideo/router/Herramientas.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Herramientas.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/RutasWeb.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/RutasWeb.js
+> git show --textconv :ToolsResideo/views/herramientas.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/herramientas.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/servicios.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/servicios.ejs
+> git show --textconv :ToolsResideo/views/template/cabecera.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/cabecera.ejs
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git show --textconv :ToolsResideo/views/template/cabecera.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/cabecera.ejs
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git show --textconv :ToolsResideo/views/template/footer.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/footer.ejs
+> git show --textconv :ToolsResideo/views/template/navbar.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/navbar.ejs
+> git show --textconv :ToolsResideo/views/herramientas.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/herramientas.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/template/cabecera.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/cabecera.ejs
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git show --textconv :ToolsResideo/views/template/footer.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/footer.ejs
+> git show --textconv :ToolsResideo/views/template/navbar.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/navbar.ejs
+> git show --textconv :ToolsResideo/views/404.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/404.ejs
+> git show --textconv :ToolsResideo/views/herramientas.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/herramientas.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/herramientas.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/herramientas.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/servicios.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/servicios.ejs
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/template/navbar.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/navbar.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/template/footer.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/footer.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/herramientas.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/herramientas.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/herramientas.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/herramientas.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Herramientas.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Herramientas.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Herramientas.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Herramientas.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Herramientas.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Herramientas.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Herramientas.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Herramientas.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Herramientas.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Herramientas.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Herramientas.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Herramientas.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/RutasWeb.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/RutasWeb.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Herramientas.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Herramientas.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Herramientas.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Herramientas.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git status -z -u
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/template/navbar.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/navbar.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/servicios.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/servicios.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/RutasWeb.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/RutasWeb.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Herramientas.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Herramientas.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git check-ignore -v -z --stdin
+> git show --textconv :ToolsResideo/router/solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/solicitudes.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Herramientas.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Herramientas.js
+> git show --textconv :ToolsResideo/router/RutasWeb.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/RutasWeb.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/RutasWeb.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/RutasWeb.js
+> git show --textconv :ToolsResideo/router/Herramientas.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Herramientas.js
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/router/RutasWeb.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/RutasWeb.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/template/contenidoActivo
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenidoActivo
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :ToolsResideo/views/template/solicitudesActivas.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/solicitudesActivas.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/template/solicitudesActivas.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/solicitudesActivas.ejs
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/template/solicitudesActivas.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/solicitudesActivas.ejs
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/template/solicitudesActivas.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/solicitudesActivas.ejs
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/template/contenedorHerramienta.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/contenedorHerramienta.ejs
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/template/solicitudesActivas.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/solicitudesActivas.ejs
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/app.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/app.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/router/Inventario.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Inventario.js
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/template/solicitudesActivas.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/solicitudesActivas.ejs
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/template/enPrestamo.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/enPrestamo.ejs
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/template/enPrestamo.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/enPrestamo.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/template/enPrestamo.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/enPrestamo.ejs
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/template/enPrestamo.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/template/enPrestamo.ejs
+> git show --textconv :ToolsResideo/router/Solicitudes.js
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/router/Solicitudes.js
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ToolsResideo/views/index.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/index.ejs
+> git show --textconv :ToolsResideo/views/solicitudes.ejs
+> git ls-files --stage -- /home/carlos/Desktop/proyectos/ToolsResideo/views/solicitudes.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

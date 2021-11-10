@@ -34,15 +34,25 @@
       
       
       
-        <%- include("template/contenedorHerramienta.ejs") %>
-        <%- include("template/contenedorHerramienta.ejs") %>
-        <%- include("template/contenedorHerramienta.ejs") %>
-        <%- include("template/contenedorHerramienta.ejs") %>
-      
-    
-      
-      
-      
+        <!--        Contenido          -->
+
+
+              <% if (arrayHerramientas.length > 0) { %>
+                  <% arrayHerramientas.forEach(herramienta => { %>
+                    <%- include("template/contenedorHerramienta.ejs",{
+                      id: herramienta.id, 
+                      nombre: herramienta.nombre,
+                      descripcion: herramienta.descripcion,
+                      status: herramienta.status,
+                      enPosecion: herramienta.enPosecion,
+                    }
+                    )
+                    %>
+                  <% }) %>
+                 <% } %>
+       
+
+
       
     </div>
     </div>
