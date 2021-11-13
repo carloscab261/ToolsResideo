@@ -1,7 +1,7 @@
 const express = require('express');
 const app=express();
 
-const port = precess.env.PORT || 3001;
+const port = process.env.PORT || 3001;
 
 //Motor de plantillas
 app.set('view engine', 'ejs' );
