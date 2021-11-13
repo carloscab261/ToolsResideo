@@ -1,0 +1,81 @@
+:root {
+    --rojo: #dc3545;
+    --verde: #198754;
+    --amarillo: #ffc107;
+    --gris: #9E9F95;
+}
+
+html {
+
+    font-size: 62.5%; /* =10px */
+    display: flex;
+    flex-direction: column;
+    height:100%;
+
+}
+
+body {
+    font-size: 1.6rem; /* =16px */
+    display: flex;
+    flex-direction: column;
+    height:100%;
+
+    
+}
+
+
+
+
+
+
+#span {
+    background-color:var(--gris);
+}
+
+.navbar{
+    font-size: 1.5rem;
+}
+
+span{
+    font-size: 2.3rem;
+    color: black;
+}
+.card {
+    font-size: 1.5rem;
+}
+.card {
+    font-size: 1.5rem;
+}
+
+.liga{
+    font-size: 2rem;
+}
+
+#activas{
+    font-size: 2rem;
+}
+#prestamo{
+    font-size: 2rem;
+}
+
+#aceptar{
+    font-size: 1.7rem;
+}
+#rechazar{
+    font-size: 1.7rem;
+}
+#recibir{
+    font-size: 1.7rem;
+}
+
+
+#activas:not(.collapsed){
+    color: #000000;
+    background-color: #000000;
+    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
+}
+#prestamo:not(.collapsed){
+    color: #000000;
+    background-color: #000000;
+    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
+}
